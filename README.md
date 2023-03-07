@@ -1,9 +1,9 @@
 # frailty-clinical-model
-This repo contains code used to develop a diagnostic model for frailty
 
-**Source of data for clinical model:** GSE144304 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144304]
+**Project Objective:** To develop a diagnostic model for frailty.
 
-**Description:**
+
+**Data Description:**
 <table>
   <tr>
     <th>Treatment</th>
@@ -26,3 +26,4 @@ This repo contains code used to develop a diagnostic model for frailty
     <td>13</td>
   </tr>
 </table>
+**Source of data:** GSE144304 [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144304]
