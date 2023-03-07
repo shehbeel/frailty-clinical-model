@@ -17,18 +17,23 @@ This repo contains code used to develop a diagnostic model for frailty
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th> 
-    <th>Country</th>
+    <th>Treatment</th>
+    <th>Male</th> 
+    <th>Female</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td> 
-    <td>Germany</td>
+    <td>Fit</td>
+    <td>15</td> 
+    <td>15</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td> 
-    <td>Mexico</td>
+    <td>(pre-)frail</td>
+    <td>13</td> 
+    <td>11</td>
+  </tr>
+   <tr>
+    <td>Health controls</td>
+    <td>13</td> 
+    <td>13</td>
   </tr>
 </table>
