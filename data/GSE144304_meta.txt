@@ -1,81 +1,81 @@
-sample_name	gender	treatment
-s301	male	frail
-s302	male	frail
-s303	male	frail
-s304	male	frail
-s305	male	frail
-s306	male	frail
-s310	female	frail
-s312	female	frail
-s314	female	frail
-s315	male	frail
-s316	female	frail
-s317	male	frail
-s318	female	frail
-s319	male	frail
-s320	female	frail
-s321	male	frail
-s322	female	frail
-s323	male	frail
-s325	female	frail
-s326	male	frail
-s327	male	frail
-s328	female	frail
-s329	female	frail
-s330	female	frail
-s331	female	frail
-s403	female	fit
-s406	male	fit
-s407	male	fit
-s409	female	fit
-s411	male	fit
-s413	male	fit
-s416	female	fit
-s419	female	fit
-s420	female	fit
-s421	female	fit
-s423	female	fit
-s424	female	fit
-s425	female	fit
-s426	female	fit
-s427	male	fit
-s429	male	fit
-s430	male	fit
-s431	female	fit
-s432	male	fit
-s433	male	fit
-s436	female	fit
-s435	male	fit
-s437	male	fit
-s438	male	fit
-s439	male	fit
-s440	female	fit
-s501	male	young
-s502	male	young
-s503	male	young
-s504	female	young
-s506	female	young
-s507	female	young
-s508	male	young
-s509	male	young
-s511	female	young
-s512	male	young
-s513	male	young
-s514	female	young
-s515	male	young
-s516	female	young
-s517	female	young
-s518	male	young
-s521	female	young
-s522	female	young
-s524	male	young
-s525	female	young
-s526	female	young
-s527	male	young
-s528	male	young
-s529	female	young
-s530	female	young
-s531	male	young
-s401	male	fit
-s404	male	fit
-s405	female	fit
+sample_id	gender	condition	frailty
+s301	male	frail	1
+s302	male	frail	1
+s303	male	frail	1
+s304	male	frail	1
+s305	male	frail	1
+s306	male	frail	1
+s310	female	frail	1
+s312	female	frail	1
+s314	female	frail	1
+s315	male	frail	1
+s316	female	frail	1
+s317	male	frail	1
+s318	female	frail	1
+s319	male	frail	1
+s320	female	frail	1
+s321	male	frail	1
+s322	female	frail	1
+s323	male	frail	1
+s325	female	frail	1
+s326	male	frail	1
+s327	male	frail	1
+s328	female	frail	1
+s329	female	frail	1
+s330	female	frail	1
+s331	female	frail	1
+s403	female	fit	0
+s406	male	fit	0
+s407	male	fit	0
+s409	female	fit	0
+s411	male	fit	0
+s413	male	fit	0
+s416	female	fit	0
+s419	female	fit	0
+s420	female	fit	0
+s421	female	fit	0
+s423	female	fit	0
+s424	female	fit	0
+s425	female	fit	0
+s426	female	fit	0
+s427	male	fit	0
+s429	male	fit	0
+s430	male	fit	0
+s431	female	fit	0
+s432	male	fit	0
+s433	male	fit	0
+s436	female	fit	0
+s435	male	fit	0
+s437	male	fit	0
+s438	male	fit	0
+s439	male	fit	0
+s440	female	fit	0
+s501	male	young	0
+s502	male	young	0
+s503	male	young	0
+s504	female	young	0
+s506	female	young	0
+s507	female	young	0
+s508	male	young	0
+s509	male	young	0
+s511	female	young	0
+s512	male	young	0
+s513	male	young	0
+s514	female	young	0
+s515	male	young	0
+s516	female	young	0
+s517	female	young	0
+s518	male	young	0
+s521	female	young	0
+s522	female	young	0
+s524	male	young	0
+s525	female	young	0
+s526	female	young	0
+s527	male	young	0
+s528	male	young	0
+s529	female	young	0
+s530	female	young	0
+s531	male	young	0
+s401	male	fit	0
+s404	male	fit	0
+s405	female	fit	0
